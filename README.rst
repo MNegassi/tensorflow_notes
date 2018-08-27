@@ -1,1 +1,1 @@
-Stanford Lecturs CS20
+Stanford Lectures CS20
